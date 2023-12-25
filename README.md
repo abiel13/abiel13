@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abiel Asimiea</h1>
 <h3 align="center">A Software Engineer who loves writing code</h3>
 
-<p>
+<p align="center" style="width-300 height-300">
   <img src="https://i.pinimg.com/564x/7a/f0/05/7af0051c06d7acbca0d496d8fcfb0194.jpg" alt='Image' />
 </p>
 
