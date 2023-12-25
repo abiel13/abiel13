@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abiel Asimiea</h1>
 <h3 align="center">A Software Engineer who loves writing code</h3>
 
-<p align="center" style="width-300 height-300">
-  <img src="https://i.pinimg.com/564x/7a/f0/05/7af0051c06d7acbca0d496d8fcfb0194.jpg" alt='Image' />
+<p align="center" >
+  <img src="https://i.pinimg.com/564x/7a/f0/05/7af0051c06d7acbca0d496d8fcfb0194.jpg" alt='Image' style="width: 300; height: 300; " />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiel13&label=Profile%20views&color=0e75b6&style=flat" alt="abiel13" /> </p>
