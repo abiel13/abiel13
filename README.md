@@ -2,12 +2,13 @@
 <h3 align="center">A Software Engineer who loves writing code</h3>
 
 <p align="center" >
-  <img src="https://i.pinimg.com/564x/7a/f0/05/7af0051c06d7acbca0d496d8fcfb0194.jpg" alt='Image' style="width: 300px; height: 300px; " />
+  <img src="https://i.pinimg.com/564x/7a/f0/05/7af0051c06d7acbca0d496d8fcfb0194.jpg" alt='Image' style="width: 300px; height: 300px; object-fit: cover; " />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiel13&label=Profile%20views&color=0e75b6&style=flat" alt="abiel13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiel13" alt="abiel13" /></a> </p>
+<p align="left" style="display: flex; gap: 8; alignItems: center; " > <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=abiel13" alt="abiel13" /></a> </p>
 
 - 🔭 I’m currently working on **AlteFlix**
 
@@ -33,10 +34,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abiel13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abiel13" height="30" width="40" /></a>
-<a href="https://medium.com/@dbestabi28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dbestabi28" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dbestabi28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dbestabi28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abileet17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abileet17" height="30" width="40" /></a>
+<a href="https://dev.to/abiel13" target="blank">
+<img style="width: 70px; height: 70px ; margin: 0px 5px; " align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abiel13" height="30" width="40" /></a>
+<a href="https://medium.com/@dbestabi28" target="blank">
+<img style="width: 70px; height: 70px ; margin: 0px 5px; " align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dbestabi28" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dbestabi28" target="blank">
+<img style="width: 70px; height: 70px ; margin: 0px 5px; " align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dbestabi28" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abileet17" target="blank">
+<img style="width: 70px; height: 70px ; margin: 0px 5px; " align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abileet17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
